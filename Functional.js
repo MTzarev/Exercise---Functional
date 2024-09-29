@@ -10,4 +10,4 @@ calc.toString = ()=> sum;
 return calc;
 }
 console.log(functionalSum(1));
-console.log(`` + functionalSum(1)(6)(-3))
+console.log(`` + functionalSum(1)(6)(-3));
